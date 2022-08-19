@@ -1,11 +1,11 @@
 # AWS Expert
 
-Assunto: AWS
-Criado: March 14, 2022 11:54 AM
-Documentação: https://docs.aws.amazon.com/index.html
-Finalizado: No
-Materiais: https://school.linuxtips.io/courses/enrolled/1703523
-Plataforma: LinuxTips
+* Assunto: AWS
+* Criado: March 14, 2022 11:54 AM
+* Documentação: https://docs.aws.amazon.com/index.html
+* Finalizado: No
+* Materiais: https://school.linuxtips.io/courses/enrolled/1703523
+* Plataforma: LinuxTips
 
 # AWS Expert
 
@@ -68,7 +68,7 @@ Plataforma: LinuxTips
 
 *Ex: Configuração da conta, de rede*
 
-![Untitled](AWS%20Expert%20c51c5d6742414189bb6c923ed4f1c964/Untitled.png)
+![Root accounts aws](https://github.com/andressaakemih/aws-expert/blob/main/img/Untitled.png)
 
 ### Root Accounts, part 2
 
